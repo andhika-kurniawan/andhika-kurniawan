@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andhika Kurniawan</h1>
 <h3 align="center">A passionate Full Stack from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andikakurniawan&label=Profile%20views&color=8672ee&style=plastic" alt="andikakurniawan" /> </p>
-
 - 🌱 I’m currently learning **Laravel, React, flutter**
 
 <h3 align="left">Connect with me:</h3>
